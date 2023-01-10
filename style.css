@@ -50,3 +50,20 @@ button {
 
 
 
+#switch{
+    font: 600 1em 'Raleway', sans-serif;
+    letter-spacing: 0.2em;
+    border-radius: 15px;
+    color: grey;
+    text-transform: uppercase;
+    margin-top: 30px;
+    background: rgb(242, 162, 232);
+    border: 3px solid grey;
+    padding: 15px 20px;
+    transition: all 200ms ease;
+    box-shadow: 3px 2px 10px rgba(0, 0, 0, 0.5);
+
+}
+
+
+
